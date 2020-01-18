@@ -1,1 +1,8 @@
 Debora Albanez Figueiredo
+
+Este é o meu guia personalizado de estudos Oracle. 
+
+Neste primeiro semestre pretendo estudar queries.
+
+
+No segundo semestre de 2020, pretendo especializar-me em Administração de Banco de Dados Oracle.
